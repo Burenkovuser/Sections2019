@@ -12,6 +12,7 @@
 		FB88A39923065C68009ED040 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB88A39723065C68009ED040 /* Main.storyboard */; };
 		FB88A39B23065C6A009ED040 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB88A39A23065C6A009ED040 /* Assets.xcassets */; };
 		FB88A39E23065C6A009ED040 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB88A39C23065C6A009ED040 /* LaunchScreen.storyboard */; };
+		FB88A3A623065D31009ED040 /* sortednames.plist in Resources */ = {isa = PBXBuildFile; fileRef = FB88A3A523065D31009ED040 /* sortednames.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		FB88A39A23065C6A009ED040 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FB88A39D23065C6A009ED040 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FB88A39F23065C6A009ED040 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FB88A3A523065D31009ED040 /* sortednames.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = sortednames.plist; path = "../../../Разработка приложений/Sections/sortednames.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				FB88A39A23065C6A009ED040 /* Assets.xcassets */,
 				FB88A39C23065C6A009ED040 /* LaunchScreen.storyboard */,
 				FB88A39F23065C6A009ED040 /* Info.plist */,
+				FB88A3A523065D31009ED040 /* sortednames.plist */,
 			);
 			path = Sections;
 			sourceTree = "<group>";
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FB88A3A623065D31009ED040 /* sortednames.plist in Resources */,
 				FB88A39E23065C6A009ED040 /* LaunchScreen.storyboard in Resources */,
 				FB88A39B23065C6A009ED040 /* Assets.xcassets in Resources */,
 				FB88A39923065C68009ED040 /* Main.storyboard in Resources */,
