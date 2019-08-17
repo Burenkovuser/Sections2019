@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FB321CBE2307926200D668A3 /* SearchResultsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB321CBD2307926200D668A3 /* SearchResultsController.swift */; };
 		FB88A39423065C68009ED040 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB88A39323065C68009ED040 /* AppDelegate.swift */; };
 		FB88A39623065C68009ED040 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB88A39523065C68009ED040 /* ViewController.swift */; };
 		FB88A39923065C68009ED040 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB88A39723065C68009ED040 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FB321CBD2307926200D668A3 /* SearchResultsController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResultsController.swift; sourceTree = "<group>"; };
 		FB88A39023065C68009ED040 /* Sections.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Sections.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB88A39323065C68009ED040 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FB88A39523065C68009ED040 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				FB88A39323065C68009ED040 /* AppDelegate.swift */,
 				FB88A39523065C68009ED040 /* ViewController.swift */,
+				FB321CBD2307926200D668A3 /* SearchResultsController.swift */,
 				FB88A39723065C68009ED040 /* Main.storyboard */,
 				FB88A39A23065C6A009ED040 /* Assets.xcassets */,
 				FB88A39C23065C6A009ED040 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FB88A39623065C68009ED040 /* ViewController.swift in Sources */,
+				FB321CBE2307926200D668A3 /* SearchResultsController.swift in Sources */,
 				FB88A39423065C68009ED040 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
